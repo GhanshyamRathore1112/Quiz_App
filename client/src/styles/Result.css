@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;    
     flex-direction: column;
-    border: 1px solid #cecece;
+    border: 1px solid #ebdddd;
     padding: 3em 4em;
     gap: 1em;
 }
@@ -31,7 +31,7 @@ table {
 }
 
 .table-header {
-    color: #cecece;
+    color: #ebdddd;
     font-size: 1.1em;
     text-align: center;
     background: #212121;
